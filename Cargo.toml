@@ -1,6 +1,9 @@
 [workspace]
 members = [
     "chap1",
-    "chap2"
+    "chap2",
+    "chap3",
+    "chap4",
+    "homework1"
 ]
 #указываем наш путь
