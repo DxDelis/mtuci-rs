@@ -1,0 +1,21 @@
+[package]
+name = "chap4"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[[bin]]
+name = "owner"
+path = "src/ownership.rs"
+
+[[bin]]
+name = "ref"
+path = "src/references.rs"
+
+[[bin]]
+name = "sli"
+path = "src/slices.rs"
+
+[dependencies]
