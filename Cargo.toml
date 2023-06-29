@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "chap1",
+    "chap2"
+]
+#указываем наш путь
